@@ -7,7 +7,7 @@ Analysis:
 Flow of my Project:
 1.	Cleaning and Preparing data.
 2.	Analyzing data.
-3.	Build Machine Learning Model on the data
+3.	Build NLP techniques and Recommendation techniques on the data
 4.	Validate my Model by analyzing & Tuning.
 5.	Integrate UI and ML Model
 
